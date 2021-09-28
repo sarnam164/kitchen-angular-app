@@ -1,4 +1,6 @@
-# Project
+# Kitchen-App
+
+An application for Kitchen Recipes and Shopping List creation.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
